@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Session1_Assignment1</string>
+   <string name="displayMessage">Hello World!</string>
+</resources>
